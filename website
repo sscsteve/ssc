@@ -1,1 +1,61 @@
-test
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Support Services Corp</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Style-Type" content="text/css">
+<LINK HREF="style.css" TYPE="text/css" REL="stylesheet">
+    <style type="text/css">
+        .auto-style3 {
+            background-color: #ffffff;
+            width: 346px;
+        }
+        .auto-style4 {
+            background-color: #ffffff;
+            width: 24px;
+        }
+        </style>
+</head>
+<body>
+<table width="1000"  border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1000" height="7" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="1000" height="60" valign="top" class="menu_bg">
+<div style="float:left" class="menu"></div>
+<div style="float:left"><a href="index.html" class="menu">home</a></div>
+<div style="float:left"><a href="index-4.html" class="menu">company</a></div>	
+<div style="float:left"><a href="index-2.html" class="menu">services</a></div>	
+<div style="float:left"><a href="index-3.html" class="menu">contact us</a></div>	
+  </tr>
+  <tr>
+    <td width="1000" height="300" valign="top" class="header">
+  </tr>
+  <tr>
+    <td width="1000" height="100" valign="top" class="tab1">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" >
+  <tr>
+    <td valign="top" class="auto-style4"><div class="blok"><br><br>
+<img src="images/ssc_trans.png" style="height: 247px; width: 454px" align="middle"><br><br>
+        </div></td>
+    <td height="100" valign="top" class="auto-style3"><div class="blok"><span class="name">Premium Data Processing Services</span><br><br>
+        SSC provides everything any marketer could need for Direct Marketing Lead Management, Lead Acquisition, Mapping, Data Processing, and Database Marketing Services. Accurate data means better contact with customers, improved response, and better overall return on your marketing investment. Rely on SSC for all of your Call Center managment and intergration services. In today's high speed world, change occurs at an alarming rate. Customer data that was once fresh, is very quickly outdated. Whether you're communicating with customers via Web / SMS / email / Social Media or through traditional Direct Mail means, SSC can help keep your marketing on target, your CRM clean and up to date, and your costs to a minimum. SSC takes the Privacy worry out of your hands for both your Telemarketing, Internet and Direct Mailing campaigns. Our extensive knowledge of all types of Marketing, state-ofthe- art technology, and superior service enables you to fully utilize all database assets. Allowing you 
+        to improve the efficiency and results of your marketing programs. The SSC team is knowledgeable, experienced and dedicated to ensuring our clients receive the best possible results. We offer impeccable service at the absolute most competitive pricing. It is our pleasure to evolve and innovate for you, our client!<br>
+</div></td>
+    
+  </tr>
+</table>	
+  </tr>
+  <tr>
+    <td width="1000" height="100%" valign="top">
+<div class="copyright">Copyright &copy; Support Services Corp 2013. All rights reserved.<br></div>
+<div class="div_menu_bottom"></div>
+<a href="index.html" class="menu_bottom">Home page</a>&nbsp; &nbsp;|&nbsp; &nbsp;
+<a href="index-4.html" class="menu_bottom">Company</a>&nbsp; &nbsp;|&nbsp; &nbsp;
+<a href="index-2.html" class="menu_bottom">Services</a>&nbsp; &nbsp;|&nbsp; &nbsp;
+<a href="index-3.html" class="menu_bottom">Contact Us</a>&nbsp; &nbsp;
+</tr>
+</table>
+</body>
+</html>
